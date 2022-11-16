@@ -1,5 +1,4 @@
 package com.saif;
-
 public class Match {
     private int match_id;
     private int season;
@@ -16,8 +15,6 @@ public class Match {
     private int win_by_wickets;
     private String player_of_match;
     private String venue;
-
-
     public int getMatch_id() {
         return match_id;
     }
